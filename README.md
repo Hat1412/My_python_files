@@ -1,5 +1,5 @@
 # My_python_files
-<h1>This Project makes a game zone with Tkniter and Pygame:
-
-For this extract all files in the zip file in the same folder and then just run game_zone.py
+This Project makes a game zone with Tkniter and Pygame:
+<img src="Pictures\snap.png" alt="Italian Trulli">
+For this <strong>extract all files in the zip file in the <italic>same folder</italic></strong> and then just run game_zone.py,
 Register/Login and enjoy the games
